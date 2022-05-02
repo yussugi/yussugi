@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yussugi
-- 👀 I’m interested in AWS, typescript, React and more.
-- 🌱 I’m currently learning Golang and Rust.
+- 👀 I’m interested in AWS, Terraform, typescript, React and more.
+- 🌱 I’m currently learning Terraform and AWS CDK.
 
 <!---
 yussugi/yussugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
