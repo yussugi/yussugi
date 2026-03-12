@@ -24,10 +24,6 @@ Yusuke Sugiyama is a Software Engineering & Strategy Lead at TOKYO GAS Co., Ltd.
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,terraform,grafana,linux,nginx,html,react,nextjs,ts,nodejs,nestjs,go,java,postgres,npm,github,githubactions,md,notion)](https://skillicons.dev)
 
-## Status
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YusukeSugiyamaTG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusukeSugiyamaTG&theme=nord_bright)
