@@ -1,6 +1,6 @@
 # Who am I?
 
-Yusuke Sugiyama is a Software Engineering & Strategy Lead at TOKYO GAS Co., Ltd.
+Hi 👋 I’m a Software Engineer & Kubestronaut ☸️ | KubeCon Japan 2025 Keynote Speaker
 
 ### 🚢 I'm [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=jp&p=yusuke-sugiyama)!!
 
