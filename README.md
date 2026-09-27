@@ -12,7 +12,8 @@ Yusuke Sugiyama is a Software Engineering & Strategy Lead at TOKYO GAS Co., Ltd.
 <img width="100" alt="kubestronaut-stacked-color" src="https://github.com/user-attachments/assets/8d20a25f-277d-4247-afbf-59fc1d636411" />
 <img width="100" height="100" alt="ica-istio-certified-associate" src="https://github.com/user-attachments/assets/d34533eb-8141-442c-b508-3c240b8a619a" />
 <img width="100" height="100" alt="capa-icon-color" src="https://github.com/user-attachments/assets/3bb51072-9151-4045-9f83-31cc51c9b90b" />
-
+<img width="100" height="100" alt="kca-kyverno-certified-associate" src="https://github.com/user-attachments/assets/9f3fcda0-d77d-474d-8fc4-dbb59799b092" />
+<img width="100" height="100" alt="otca-opentelemetry-certified-associate" src="https://github.com/user-attachments/assets/6d82c17b-587b-472c-a33e-a8cce68f439e" />
 
 ### 📢 KubeCon + CloudNativeCon Japan 2025 Keynote Speaker!!
 
