@@ -10,6 +10,7 @@ Hi 👋 I’m a Software Engineer & Kubestronaut ☸️ | KubeCon Japan 2025 Key
 <img width="100" alt="kubestronaut-stacked-color" src="https://github.com/user-attachments/assets/ab209d8d-0282-494c-a9ab-7beabb1711ee" />
 <img width="100" alt="kubestronaut-stacked-color" src="https://github.com/user-attachments/assets/4728f376-2b13-4ea5-972c-bfb66d3d43f3" />
 <img width="100" alt="kubestronaut-stacked-color" src="https://github.com/user-attachments/assets/8d20a25f-277d-4247-afbf-59fc1d636411" />
+<br>
 <img width="100" height="100" alt="ica-istio-certified-associate" src="https://github.com/user-attachments/assets/d34533eb-8141-442c-b508-3c240b8a619a" />
 <img width="100" height="100" alt="capa-icon-color" src="https://github.com/user-attachments/assets/3bb51072-9151-4045-9f83-31cc51c9b90b" />
 <img width="100" height="100" alt="kca-kyverno-certified-associate" src="https://github.com/user-attachments/assets/9f3fcda0-d77d-474d-8fc4-dbb59799b092" />
