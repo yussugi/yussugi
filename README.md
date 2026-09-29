@@ -14,6 +14,8 @@ Hi 👋 I’m a Software Engineer & Kubestronaut ☸️ | KubeCon Japan 2025 Key
 <img width="100" height="100" alt="capa-icon-color" src="https://github.com/user-attachments/assets/3bb51072-9151-4045-9f83-31cc51c9b90b" />
 <img width="100" height="100" alt="kca-kyverno-certified-associate" src="https://github.com/user-attachments/assets/9f3fcda0-d77d-474d-8fc4-dbb59799b092" />
 <img width="100" height="100" alt="otca-opentelemetry-certified-associate" src="https://github.com/user-attachments/assets/6d82c17b-587b-472c-a33e-a8cce68f439e" />
+<img width="100" height="100" alt="cnpa-certified-cloud-native-platform-engineering-as" src="https://github.com/user-attachments/assets/c3ea4f0c-ffd2-497d-b399-5cfc330984bd" />
+
 
 ### 📢 KubeCon + CloudNativeCon Japan 2025 Keynote Speaker!!
 
