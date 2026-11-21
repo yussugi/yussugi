@@ -28,6 +28,7 @@
   <img width="90" alt="CAPA" src="https://github.com/user-attachments/assets/3bb51072-9151-4045-9f83-31cc51c9b90b" />
   <img width="90" alt="KCA" src="https://github.com/user-attachments/assets/9f3fcda0-d77d-474d-8fc4-dbb59799b092" />
   <img width="90" alt="OTCA" src="https://github.com/user-attachments/assets/6d82c17b-587b-472c-a33e-a8cce68f439e" />
+  <img width="90" alt="PCA" src="https://github.com/user-attachments/assets/a5c9ba2d-f224-45a1-9719-bba8d70096b9" />
   <img width="90" alt="CCA" src="https://github.com/user-attachments/assets/0f89b89e-a9e2-4d16-b917-53696b46cd20" />
   <img width="90" alt="CNPA" src="https://github.com/user-attachments/assets/c3ea4f0c-ffd2-497d-b399-5cfc330984bd" />
 </p>
