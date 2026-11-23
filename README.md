@@ -31,6 +31,7 @@
   <img width="90" alt="PCA" src="https://github.com/user-attachments/assets/a5c9ba2d-f224-45a1-9719-bba8d70096b9" />
   <img width="90" alt="CCA" src="https://github.com/user-attachments/assets/0f89b89e-a9e2-4d16-b917-53696b46cd20" />
   <img width="90" alt="CNPA" src="https://github.com/user-attachments/assets/c3ea4f0c-ffd2-497d-b399-5cfc330984bd" />
+  <img width="90" alt="CGOA" src="https://github.com/user-attachments/assets/859348bc-a510-4455-9c7e-b5f8f0a7ad1a" />
 </p>
 
 ## 📢 KubeCon + CloudNativeCon Japan 2025 Keynote
